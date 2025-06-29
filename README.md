@@ -1,6 +1,6 @@
 # 📚 Bookshelf
 
-This **Library Management desktop GUI**, built using **JavaFX**, provides a **simple and efficient** way to manage books. It allows users to **add new books, borrow, and return them**, while keeping track of their availability. The application maintains a **clear list of books**, indicating whether they are **available or borrowed**. With a straightforward interface, it helps in **organizing a small library with ease**.
+This **Library Management desktop GUI**, built using **JavaFX**, provides a **simple and efficient** way to manage books. It is very similar to a boolshelf which allows users to **add new books, borrow, and return them**, while keeping track of their availability. The application maintains a **clear list of books**, indicating whether they are **available or borrowed**. With a straightforward interface, it helps in **organizing a small library with ease**.
 
 ---
 
